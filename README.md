@@ -26,4 +26,7 @@ ARPU считается относительно всех пользовател
 
 ## Результаты расчетов ##
 ### Задание 1
+![image](https://github.com/S1lencena/SQL_Calculate_metrics/assets/140109674/0f3b57da-07cd-4a28-a7bd-8b210e4ed4dc)
 
+### Задание 2
+![image](https://github.com/S1lencena/SQL_Calculate_metrics/assets/140109674/22f2b5b5-3ce7-4aba-89ad-c3f15c5596db)
